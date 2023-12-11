@@ -1,0 +1,1 @@
+Humidity3pm;WindGustSpeed;Pressure9am;Pressure3pm;Rainfall;Temp3pm;MinTemp;Sunshine;WindSpeed3pm;Location_Melbourne;Location_MelbourneAirport;Location_Sydney;Location_SydneyAirport

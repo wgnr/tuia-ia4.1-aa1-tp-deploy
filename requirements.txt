@@ -1,0 +1,8 @@
+tensorflow==2.14.0
+scikit-learn==1.2.2
+sklearn-pandas==2.2.0
+pandas==1.5.3
+numpy==1.23.5
+keras==2.14.0
+shap==0.44.0
+streamlit==1.29.0

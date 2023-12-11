@@ -1,0 +1,1 @@
+Pressure3pm;Pressure9am;Humidity3pm;Sunshine;WindGustSpeed;Cloud3pm;MinTemp;Temp9am;Temp3pm;WindGustDir_ENE;WindGustDir_ESE;WindGustDir_N;WindGustDir_NE;WindGustDir_NNE;WindGustDir_NNW;WindGustDir_NW;WindGustDir_S;WindGustDir_SE;WindGustDir_SSE;WindGustDir_SSW;WindGustDir_SW;WindGustDir_W;WindGustDir_WNW;WindGustDir_WSW
